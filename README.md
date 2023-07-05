@@ -1,4 +1,4 @@
-Based on https://github.com/DanielZambelli/heroku-buildpack-cloud-sql-proxy/, with modifications to convig var names.
+Based on https://github.com/DanielZambelli/heroku-buildpack-cloud-sql-proxy/, with modifications to config var names.
 
 # Google Cloud SQL Proxy buildpack
 
